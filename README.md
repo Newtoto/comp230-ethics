@@ -1,6 +1,3 @@
-## The negative impacts of an overworked game development team on individuals and industries.
+## How fatigue and demotivation from crunch time can negatively impact a game development project.
 
-<ul>
-<li>effect of crunch on quality of product</li>
-<li>impact on mental health and outside life</li>
-</ul>
+<p>Crunch time in game development dramatically increases the working hours of its team members, resulting in fatigue and demotivation [1]. This paper will investigate the deeper impacts of these and the overall result on the final game release, such as a less effective agile process, and an increase in human error. The purpose of this is to gain a deeper insight into the costs of this common development practice.</p>
