@@ -76,3 +76,58 @@ a lowering of the higher nervous activities, particularly the concentration of a
 ## Shift work, safety and productivity
 
 Fatigue impairs productivity and efficiency in shift workers over the course of a day.
+
+## Influence of work motivation and task difficulty on human reliability
+
+psychological factors play an important role in human performance
+
+experience and training would not only lower the task difficulty for subjects but also change the relationship between work motivation and HEP - super low motivation and super high motivation can both increase errors
+
+## A Critical Review of Human Performance Reliability Predictive Methods
+
+void
+
+## Skills, rules, and knowledge; signals, signs, and symbols, and other distinctions in human performance models
+
+Due to the high risk involved in the potential for accidents in large centralized production units, concern with being able to predict human performance during complex rare events has increased
+
+stressed encounters with accidental events. 
+
+## Work Motivations Affecting Self-Efficacy and Work Effectiveness of Flight Attendants of Airlines in Thailand
+
+Work motivation is related to self-efficacy and work effectiveness.
+
+Airline business can motivate self-efficacy of flight attendants so as to increase work effectiveness.
+food and water, clothing, shelter and medicines/healthcare
+
+Employment contract is the factor having the highest score, so airline business can manage to motivate its flight attendants by offering clear, precise, fair and steady employment contract.
+
+## Work motivation and job performance of frontline employees: The mediating role of organizational commitment
+Motivation is one of the top priorities which organisations should successfully deal with in order to tap on human capital and retain skilled and talented employees.
+
+Thus, motivation may be used as a tool with which managers can tailor HRM practices, job assignments and rewards to enhance employees' commitment.
+
+encourage employees' alignment to organisational goals in order to build high-performing employees by fulfilling or appealing to their needs 
+
+## Evaluating Performance Impacts of Delayed Failure Repairing on Large-Scale Systems
+
+ For systems of such a scale, frequent failures are becoming a serious concern
+ 
+One of the most important reasons is that in a large-scale system it is hard to detect failures. As a result, failure repair may take substantial time
+
+## Developers Motivation in Agile Teams
+
+We found that agile teams have Good Work/life balance (M9), considered as a motivator. 
+
+Conversely, McHugh et al. [17] found that teams feel stressed due to the frenetic pace of agile work, having to always deliver every day and sometimes working overtime when the pressure is very intense. 
+
+## Motivation for Self-Assignment: Factors Agile Software Developers Consider
+
+Motivation is a critical determinant of project success in software projects
+
+even if the developers are technically skilled to complete a task, they still may not self-select if it does not fall within their technical comfort zone. (Talk about easier tasks behing completed)
+ 
+## What Do We Know about Developer Motivation?
+
+developer motivation affects project productivity,1 software quality,2 and a project's overall success
+
