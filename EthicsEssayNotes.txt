@@ -1,0 +1,141 @@
+LINK CRUNCH TIME TO FATIGUE
+
+\cite{CrunchTime}
+They have been feeling extremely overworked, pressured, stressed, frustrated and exhausted
+Employees were sleep deprived [30], exhausted and burnt out by all-nighters and weekends at the office
+employees neglecting their bodies in order to get a few extra hours of work every day
+
+\cite{SoftwareFatigue}
+The expectation of long work-hours and participation in death marches [3], places developers in a situation where they must work in a state of fatigue (a physiological state of reduced mental or physical capability
+Developers were fatigued due to poor sleep habits and the stress of working long and demanding hours.
+
+\cite{IndustryFatigue}
+Fatigue is caused by many kinds of factors in the workplaces. These are (1) overtime work (6) changes in work
+the most common cause was mental and physical fatigue caused by how busy the work done is
+To simplify the definition of fatigue, it is a state of being tired which is brought about by an excess of mental and physical work.
+Industrial fatigue is caused by excessive workload
+Computer work causes mental fatigue, neck and upper limb disorders, low back pain,
+
+\cite{AgileMotivation}
+Conversely, McHugh et al. [17] found that teams feel stressed due to the frenetic pace of agile work, having to always deliver every day and sometimes working overtime when the pressure is very intense.
+
+
+LINK FATIGUE TO DEMOTIVATION
+
+\cite{CrunchTime}
+grave effect on the employee's personal relationships and mental health
+Interview of 2 programmers - workforce gets burnt out and that it becomes difficult to have a good work-life balance
+
+\cite{AgileMotivation}
+We found that agile teams have Good Work/life balance (M9), considered as a motivator.
+
+\cite{FlightAttendants}
+Employment contract is the factor having the highest score, so airline business can manage to motivate its flight attendants by offering clear, precise, fair and steady employment contract.
+
+
+PRODUCTIVITY
+
+\cite{CrunchTime}
+Instead the projects ran late by up to five months.
+recovery needs to happen daily in order to keep the staff's health and performance at good levels.
+
+\cite{SoftwareFatigue}
+Performance: [28.42%] When I am tired I cannot come up with solutions as quickly, or sometimes not at all … 
+Fatigued developers perform work slower. 
+Suboptimal approaches and having less reasoning capabilities contribute to degradation of performance.
+Slower key movements
+
+\cite{IndustryFatigue}
+This state results in lowering or an impairment of human functioning.
+decrease in work efficiency, and a diminution in the amount of work.
+
+\cite{ShiftWork}
+Fatigue impairs productivity and efficiency in shift workers over the course of a day.
+
+\cite{HumanReliability}
+psychological factors play an important role in human performance
+
+\cite{FlightAttendants}
+Work motivation is related to self-efficacy and work effectiveness.
+
+
+\cite{EasyTasks}
+even if the developers are technically skilled to complete a task, they still may not self-select if it does not fall within their technical comfort zone.
+
+\cite{SoftwareFatigue}
+I zone out all the time … When fatigued, a developer's mind looses the ability to focus on more complex tasks and ability to coordinate concurrent activities.
+More resistant to starting new work, particularly if it seems ‘hard’ … Fatigue induces unwillingness to work. Responses acknowledged that without motivation to work, developers move towards delaying the work
+Developers avoid complex tasks and focus on unnecessary trivial tasks.
+
+\cite{DeveloperMotivation}
+developer motivation affects project productivity
+
+
+SOFTWARE QUALITY
+
+\cite{DeveloperMotivation}
+developer motivation affects software quality
+
+\cite{FlightAttendants}
+Work motivation is related to work effectiveness.
+
+\cite{IndustryFatigue}
+concentration of attention: the result is a lowering of the ability to think
+
+\SoftwareFatigue
+Productivity: [19.03%] It harms my productivity. It also stifles creativity so you might not come up with the best solution the first time. The quality of my works declines drastically … ‘
+Fatigued developers are less likely to produce code that satisfies a developers' intended goals and standards. 
+Apart from poor reasoning, fatigue also affects quality and creativity.
+Responses also acknowledge an intersection between performance and productivity.
+
+\cite{CrunchTime}
+Recent research claims that crunch time itself can contribute to late deliveries and low quality software
+Sleep deprivation can significantly reduce developers ability to make rational design decisions and produce high quality software
+According to our interviewee at Company B, crunch has a negative impact on software quality. She says that “you get sloppy because of the stress”.
+employees associate their workplace with stress they will quickly regain the same stress levels once they get back to work. It is therefore suggested that recovery needs to happen daily in order to keep the staff's health and performance at good levels.
+
+
+
+HUMAN ERROR
+
+\cite{CrunchTime}
+Overworked and tired employees creating more bugs while bug fixing is also prominent for this type of crunch
+We believe this is due to the fact that overworked and burnt out employees have a tendency of making more mistakes and thus create more bugs and reduce the quality.
+
+\cite{SoftwareFatigue}
+Errors: [10.72%] Introducing bugs into code, not deploying latest binaries and being surprised at lack of change in behavior.
+Tendency to cut corners, put things off and make mistakes
+Fatigued developers make mistakes and reduce quality of code.
+Distraction and lack of focus is also contribute to increased chances for making logic errors and silly mistakes.
+Less Reliable Mouse Movements:
+
+\cite{IndustryFatigue}
+concentration of attention loss causing thoughtlessness and a large number of errors
+
+\cite{HumanReliability}
+experience and training would not only lower the task difficulty for subjects but also change the relationship between work motivation and HEP - super low motivation and super high motivation can both increase errors
+
+\cite{LargeCentralisedProduction}
+Due to the high risk involved in the potential for accidents in large centralized production units, concern with being able to predict human performance during complex rare events has increased
+
+\cite{LargeSystems}
+For systems of such a scale, frequent failures are becoming a serious concern
+One of the most important reasons is that in a large-scale system it is hard to detect failures. As a result, failure repair may take substantial time
+
+
+STAFF RETENTION
+
+\cite{FrontlineEmployees}
+Motivation is one of the top priorities which organisations should successfully deal with in order to tap on human capital and retain skilled and talented employees.
+Thus, motivation may be used as a tool with which managers can tailor HRM practices, job assignments and rewards to enhance employees' commitment.
+
+\cite{CrunchTime}
+grave effect on the employee's personal relationships and mental health, causing many people to consider leaving the industry
+“it makes people hate what they do” - programmer company A
+
+
+
+
+
+
+
