@@ -127,7 +127,7 @@ Motivation is a critical determinant of project success in software projects
 
 even if the developers are technically skilled to complete a task, they still may not self-select if it does not fall within their technical comfort zone. (Talk about easier tasks behing completed)
  
-## What Do We Know about Developer Motivation? (eveloperMotivation)
+## What Do We Know about Developer Motivation? (DeveloperMotivation)
 
 developer motivation affects project productivity,1 software quality,2 and a project's overall success
 
