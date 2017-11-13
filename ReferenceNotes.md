@@ -1,4 +1,4 @@
-## Crunch Time: The Reasons and Effects of Unpaid Overtime in the Games Industry
+## Crunch Time: The Reasons and Effects of Unpaid Overtime in the Games Industry (CrunchTime)
 Recent research claims that crunch time itself can contribute to late deliveries and low quality software
 
 Sleep deprivation can significantly reduce developers ability to make rational design decisions and produce high quality software
@@ -32,7 +32,7 @@ employees neglecting their bodies in order to get a few extra hours of work ever
 
 ince the employees associate their workplace with stress they will quickly regain the same stress levels once they get back to work. It is therefore suggested that recovery needs to happen daily in order to keep the staff's health and performance at good levels.
 
-## Characterizing and Predicting Mental Fatigue during Programming Tasks
+## Characterizing and Predicting Mental Fatigue during Programming Tasks (SoftwareFatigue)
 
 A culture has permeated the software industry that emphasizes performance over well-being. The expectation of long work-hours and participation in death marches [3], places developers in a situation where they must work in a state of fatigue (a physiological state of reduced mental or physical capability
 
@@ -53,7 +53,7 @@ Motivation: [7.77%] When I'm tired I lose all desire to continue with the task a
 
 Slower key movements, significant decrease in code quality - suggesting less quality control, less time spent focusing on a file, more copy pasting/refactoring when fatigued (easier tasks), overall decrease in amount of activity key usage mouse usage and time spend on software development.
 
-## Measurement of Fatigue in Industries
+## Measurement of Fatigue in Industries (IndustryFatigue)
 
 Fatigue is caused by many kinds of factors in the workplaces. These are (1) overtime work (6) changes in work
 
@@ -73,11 +73,11 @@ persistent eye strain brought about by a high visual load,
 
 a lowering of the higher nervous activities, particularly the concentration of attention: the result is a lowering of the ability to think, causing thoughtlessness and a large number of errors, decrease in work efficiency, and a diminution in the amount of work.
 
-## Shift work, safety and productivity
+## Shift work, safety and productivity (ShiftWork)
 
 Fatigue impairs productivity and efficiency in shift workers over the course of a day.
 
-## Influence of work motivation and task difficulty on human reliability
+## Influence of work motivation and task difficulty on human reliability (HumanReliability)
 
 psychological factors play an important role in human performance
 
@@ -87,13 +87,13 @@ experience and training would not only lower the task difficulty for subjects bu
 
 void
 
-## Skills, rules, and knowledge; signals, signs, and symbols, and other distinctions in human performance models
+## Skills, rules, and knowledge; signals, signs, and symbols, and other distinctions in human performance models (LargeCentralisedProdction)
 
 Due to the high risk involved in the potential for accidents in large centralized production units, concern with being able to predict human performance during complex rare events has increased
 
 stressed encounters with accidental events. 
 
-## Work Motivations Affecting Self-Efficacy and Work Effectiveness of Flight Attendants of Airlines in Thailand
+## Work Motivations Affecting Self-Efficacy and Work Effectiveness of Flight Attendants of Airlines in Thailand (FlightAttendants)
 
 Work motivation is related to self-efficacy and work effectiveness.
 
@@ -102,32 +102,32 @@ food and water, clothing, shelter and medicines/healthcare
 
 Employment contract is the factor having the highest score, so airline business can manage to motivate its flight attendants by offering clear, precise, fair and steady employment contract.
 
-## Work motivation and job performance of frontline employees: The mediating role of organizational commitment
+## Work motivation and job performance of frontline employees: The mediating role of organizational commitment (FrontlineEmployees)
 Motivation is one of the top priorities which organisations should successfully deal with in order to tap on human capital and retain skilled and talented employees.
 
 Thus, motivation may be used as a tool with which managers can tailor HRM practices, job assignments and rewards to enhance employees' commitment.
 
 encourage employees' alignment to organisational goals in order to build high-performing employees by fulfilling or appealing to their needs 
 
-## Evaluating Performance Impacts of Delayed Failure Repairing on Large-Scale Systems
+## Evaluating Performance Impacts of Delayed Failure Repairing on Large-Scale Systems (LargeSystems)
 
  For systems of such a scale, frequent failures are becoming a serious concern
  
 One of the most important reasons is that in a large-scale system it is hard to detect failures. As a result, failure repair may take substantial time
 
-## Developers Motivation in Agile Teams
+## Developers Motivation in Agile Teams (AgileMotivation)
 
 We found that agile teams have Good Work/life balance (M9), considered as a motivator. 
 
 Conversely, McHugh et al. [17] found that teams feel stressed due to the frenetic pace of agile work, having to always deliver every day and sometimes working overtime when the pressure is very intense. 
 
-## Motivation for Self-Assignment: Factors Agile Software Developers Consider
+## Motivation for Self-Assignment: Factors Agile Software Developers Consider (EasyTasks)
 
 Motivation is a critical determinant of project success in software projects
 
 even if the developers are technically skilled to complete a task, they still may not self-select if it does not fall within their technical comfort zone. (Talk about easier tasks behing completed)
  
-## What Do We Know about Developer Motivation?
+## What Do We Know about Developer Motivation? (eveloperMotivation)
 
 developer motivation affects project productivity,1 software quality,2 and a project's overall success
 
